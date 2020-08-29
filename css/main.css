@@ -121,6 +121,7 @@ section {
     background: url(../img/shoe-3.png) center no-repeat, radial-gradient(#444, #111);
     background-blend-mode: multiply;
     background-attachment: fixed;
+    background-size: 80%;
   }
 }
 
